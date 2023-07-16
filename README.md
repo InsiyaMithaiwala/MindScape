@@ -1,8 +1,4 @@
 # MindScape
-# Mind Scape
-
-
-
 ## Run Locally
 
 Clone the project
