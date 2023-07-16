@@ -1,1 +1,2 @@
 # MindScape
+Ai image generator
